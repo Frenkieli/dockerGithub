@@ -5,6 +5,27 @@
 /.pnp
 .pnp.js
 
+/bin
+/boot
+/dev
+/etc
+/home
+/lib
+/lib64
+/media
+/mnt
+/opt
+/proc
+/root
+/run
+/sbin
+/srv
+/sys
+/tmp
+/usr
+/var
+.dockerenv
+
 # testing
 /coverage
 
@@ -22,5 +43,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-id_ed25519
-id_ed25519.*
+id_rsa
+id_rsa.*
