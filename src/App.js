@@ -2,7 +2,7 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.scss";
 
-import styled from "styled-components";
+import styled from "@emotion/styled";
 
 function App() {
   return (
