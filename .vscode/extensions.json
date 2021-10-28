@@ -1,0 +1,14 @@
+{
+	"recommendations": [
+    "skyran.js-jsx-snippets",
+    "dsznajder.es7-react-js-snippets",
+		"paulmolluzzo.convert-css-in-js",
+		"oouo-diogo-perdigao.docthis",
+    "dbaeumer.vscode-eslint",
+    "oderwat.indent-rainbow",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint",
+    "jpoissonnier.vscode-styled-components",
+    "pkief.material-icon-theme"
+	]
+}
